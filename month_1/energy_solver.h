@@ -14,7 +14,7 @@ using namespace std;
 // }
 
 // Function to calcualte the vapour phase composition.
-inline vector<vector<double>> calculate_vij(
+inline vector<vectosfsfsr<double>> calculate_vij(
     const vector<vector<double>> &Sij,
     const vector<vector<double>> &lij)
 {
